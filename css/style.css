@@ -1,0 +1,79 @@
+* {
+  font-family: 'Sigmar One', cursive;
+}
+
+a:hover   {
+  color: #403F3C; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+.nav {
+  color: black;
+  padding: 2rem 2rem 2rem ;
+  font-size: 2rem;
+}
+
+.selectDegrees {
+  margin-right: 50px;
+  display: inline;
+}
+
+.windSpeed {
+  margin-right: 50px;
+  width: 20rem;
+  display: inline;
+}
+
+.search {
+  margin-right: 50px;
+  width: 20rem;
+  display: inline;
+}
+
+#searchPanel {
+  padding-top: 2px;
+  background: #fff;
+  display: none;
+  height: 40px;
+}
+
+.isosceles {
+  float: right;
+}
+
+.image {
+  position: absolute;
+  left: 50%;
+  margin-top: 330px;
+  margin-left: 70px;
+  width: 100px;
+  height: 100px;
+}
+
+.heading {
+  padding-top: 10rem;
+  text-align: center;
+}
+
+.location {
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+
+#country {
+  font-size: 2.5rem;
+}
+
+.weather {
+  font-size: 100px;
+  text-align: center;
+}
+
+.desc {
+  font-size: 2rem;
+  text-align: center;
+}
+
+

@@ -1,6 +1,6 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/Isosceles/pen/YWzLaJ.
+Demo at: http://codepen.io/Isosceles/pen/YWzLaJ.
 
- Uses ip-api to location the long and lat coordinates of clients computer to then send those paramaters to openWeatherMap.org's API and display the:
+Uses ip-api to locate the longitude and latitude coordinates of clients computer to then send those paramaters to openWeatherMap.org's API and display the:
 current weather,
 wind speed,
 wind direction,

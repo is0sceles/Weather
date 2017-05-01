@@ -1,7 +1,10 @@
 # Weather
-A Weather app that provides local weather information with the ability to custom search weather around the world in 200+ cities/geographies
+local weather information - search dataset of 200
 
 # Features:
 Current weather
-Wind speed and wind direction for current location.
+Wind speed 
+Wind direction for current location
+
+
 

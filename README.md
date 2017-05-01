@@ -12,8 +12,8 @@ Demo at: http://codepen.io/Isosceles/pen/YWzLaJ.
 - weather description 
 - search
 - sync background colour to weather detail
-
-version: 0.0.1
-purpose: sync UI to API
-worthwhile: true
+- ---------------
+- version: 0.0.1
+- purpose: sync UI to API
+- worthwhile: true
 
